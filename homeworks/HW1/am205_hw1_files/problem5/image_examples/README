@@ -1,0 +1,16 @@
+Python and MATLAB examples for loading and saving images
+--------------------------------------------------------
+The Python library "skimage" can be used to read in images into NumPy arrays.
+This directory contains two Python examples for reading in images:
+
+- load_image.py reads in a greyscale image "thirlmere.png" into an M by N
+  array. The image is then plotted using Matplotlib.
+
+- split_channel.py reads in a color image "rubik.png" into an M by N by 3 array called "a".
+  The red channel is held in a[:,:,0], the green channel is held in a[:,:,1],
+  and the blue channel is held in a[:,:,2]. The program outputs each of these
+  three channels as separate images.
+
+MATLAB also has functionality for reading images. The program
+"load_image_split_channel.m" performs the same tasks as two Python examples
+listed above.

@@ -1,0 +1,50 @@
+255 0 0 Washington
+255 94 0 Oregon
+255 187 0 California
+230 255 0 Nevada
+136 255 0 Idaho
+42 255 0 Montana
+0 255 51 Wyoming
+0 255 144 Utah
+0 255 238 Arizona
+0 178 255 Alaska
+0 85 255 New Mexico
+8 0 255 Colorado
+102 0 255 Nebraska
+195 0 255 South Dakota
+255 0 221 North Dakota
+255 0 128 Minnesota
+255 0 34 Iowa
+255 60 0 Missouri
+255 153 0 Kansas
+255 247 0 Olkaholma
+170 255 0 Texas
+77 255 0 Hawaii
+0 255 17 Louisiana
+0 255 111 Arkansas
+0 255 204 Illinois
+0 212 255 Wisconsin
+0 119 255 Michigan
+0 25 255 Indiana
+68 0 255 Kentucky
+162 0 255 Tennessee
+255 0 255 Mississippi
+255 0 161 Alabama
+255 0 68 Florida
+255 0 6 Georgia
+255 119 0 South Carolina
+255 213 0 North Carolina
+204 255 0 Virginia
+110 255 0 West Virginia
+17 255 0 Ohio
+0 255 77 Pennsylvania
+0 255 170 Maryland
+0 247 255 Delaware
+0 153 255 New Jersey
+0 60 255 New York
+34 0 255 Connecticut
+128 0 255 Rhode Island
+221 0 255 Massachusetts
+255 0 195 Vermont
+255 0 102 New Hampshire
+255 0 8 Maine

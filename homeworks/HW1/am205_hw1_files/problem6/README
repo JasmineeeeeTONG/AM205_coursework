@@ -1,0 +1,77 @@
+Description of file 'measured-concs.txt'
+----------------------------------------
+Each line of this file contains three numbers:
+
+<x position> <y position> <concentration>
+
+There are 200 lines in the file, corresponding to 200 concentration
+measurements.
+
+Key for problem 6(c)
+--------------------
+Each hexadecimal character can be converted into a 2 by 2 grid as follows.
+
+0
+..
+..
+
+1
+..
+#.
+
+2
+..
+.#
+
+3
+..
+##
+
+4
+#.
+..
+
+5
+#.
+#.
+
+6
+#.
+.#
+
+7
+#.
+##
+
+8
+.#
+..
+
+9
+.#
+#.
+
+A
+.#
+.#
+
+B
+.#
+##
+
+C
+##
+..
+
+D
+##
+#.
+
+E
+##
+.#
+
+F
+##
+##
+

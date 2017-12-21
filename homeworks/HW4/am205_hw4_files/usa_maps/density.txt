@@ -1,0 +1,50 @@
+95 Alabama
+1 Alaska
+60 Arizona
+57 Arkansas
+251 California
+52 Colorado
+741 Connecticut
+485 Delaware
+378 Florida
+177 Georgia
+222 Hawaii
+20 Idaho
+231 Illinois
+184 Indiana
+55 Iowa
+36 Kansas
+112 Kentucky
+108 Louisiana
+43 Maine
+618 Maryland
+871 Massachusetts
+175 Michigan
+68 Minnesota
+63 Mississippi
+88 Missouri
+7 Montana
+24 Nebraska
+26 Nevada
+148 New Hampshire
+1218 New Jersey
+17 New Mexico
+420 New York
+212 Virginia
+10 North Dakota
+284 Ohio
+57 Oklaholma
+41 Oregon
+286 Pennsylvania
+1021 Rhode Island
+162 South Carolina
+11 South Dakota
+160 Tennessee
+105 Texas
+36 Utah
+67 Vermont
+206 North Carolina
+107 Washington
+76 West Virginia
+106 Wisconsin
+6 Wyoming

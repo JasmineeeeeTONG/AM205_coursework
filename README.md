@@ -1,6 +1,4 @@
-# AM205 2017 Fall
+# AM205 Coursework - Fall 2017
 
-Course Repository:
-- **Homeworks** in 'homeworks' directory (some large data files are removed.)
-- **Midterm** in 'midterm-2017' directory
-- **Project** is published at the [website](https://jasmineeeeetong.github.io/AM205_17Fall_Project_Publish/).
+This is the coursework repo for Harvard AM205 - Advanced Scientific Computing: Numerical Methods (Fall 2017).
+- **Project - 2D Pattern Formation Modeling with Reaction Diffusion (RD) Partial Differential Equations (PDE)** published [here](https://jasmineeeeetong.github.io/AM205_17Fall_Project_Publish/).
